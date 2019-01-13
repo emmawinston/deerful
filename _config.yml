@@ -16,6 +16,17 @@ footer: Emma Winston
 social:
   - title: twitter
     url: https://twitter.com/deer_ful
+  - title: facebook
+    url: https://facebook.com/deerful
+  - title: instagram
+    url: https://instagram.com/deer_ful
+  - title: patreon
+    url: https://patreon.com/deerful
+  - title: soundcloud
+    url: https://soundcloud.com/deerful
+  - title: youtube
+    url: https://youtube.com/deerful
+
 
 # Build settings
 markdown: kramdown
