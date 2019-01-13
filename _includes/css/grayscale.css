@@ -33,13 +33,17 @@ h6 {
 }
 
 h1.brand-heading {
-    color: #94cecb;
+    color: #8fb4b7;
 }
 
 p {
     margin: 0 0 25px;
     font-size: 18px;
     line-height: 1.5;
+}
+
+p.intro-text {
+    color: #C17284;
 }
 
 @media(min-width:767px) {
