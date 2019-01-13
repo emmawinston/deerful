@@ -10,7 +10,7 @@ body {
     width: 100%;
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #000;
+    color: #392d47;
     background-color: {{ site.color.primary-dark }};
 }
 
@@ -82,7 +82,7 @@ a:focus {
 .navbar-custom .navbar-brand .navbar-toggle {
     padding: 4px 6px;
     font-size: 16px;
-    color: #000;
+    color: #392d47;
 }
 
 .navbar-custom .navbar-brand .navbar-toggle:focus,
@@ -91,7 +91,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #000;
+    color: #392d47;
 }
 
 .navbar-custom .nav li.active {
@@ -196,7 +196,7 @@ a:focus {
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #000;
+    color: #392d47;
     background: rgba(0,0,0,.1);
 }
 
@@ -259,7 +259,7 @@ a:focus {
 .download-section {
     width: 100%;
     padding: 50px 0;
-    color: #000;
+    color: #392d47;
     background: #000 url(https://emmawinston.me/deerful/img/background.png) no-repeat center center fixed;
     background-opacity: 0.5;
     /* background-color: {{ site.color.primary-dark }}; */
@@ -272,7 +272,7 @@ a:focus {
 .music-section {
     width: 100%;
     padding: 50px 0;
-    color: #000;
+    color: #392d47;
     background: #000 url(https://emmawinston.me/deerful/img/background.png) no-repeat center center fixed;
     background-opacity: 0.5;
     /* background-color: {{ site.color.primary-dark }}; */
@@ -334,10 +334,10 @@ a:focus {
 
 .music-section .btn-default:hover,
 .music-section .btn-default:focus {
-    border: 1px solid #000;
+    border: 1px solid #392d47;
     outline: 0;
     color: {{ site.color.primary-dark }};
-    background-color: #000;
+    background-color: #392d47;
 }
 
 ul.banner-social-buttons {
