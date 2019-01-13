@@ -141,7 +141,7 @@ a:focus {
     text-align: center;
     color: #fff;
     text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
-    background: #000 url(https://emmawinston.me/deerful/img/background.png) no-repeat bottom center fixed;
+    background: #000 url(https://emmawinston.me/deerful/img/background.png) no-repeat bottom center fixed repeat;
     background-opacity: 0.5;
     /* background-color: {{ site.color.primary-dark }}; */
     -webkit-background-size: cover;
