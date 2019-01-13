@@ -24,7 +24,7 @@ html {
 }
 
 .social h4 {
-    font-size: 22px;
+    font-size: 28px;
 }
 
 h1,
@@ -41,7 +41,7 @@ h6 {
 }
 
 h1.brand-heading {
-    color: #392d47;;
+    color: #392d47;
 }
 
 p {
@@ -67,6 +67,10 @@ a {
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
+}
+
+.social a {
+    color: #392d47;
 }
 
 a:hover,
