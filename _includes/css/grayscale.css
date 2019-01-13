@@ -33,7 +33,7 @@ h6 {
 }
 
 h1.brand-heading {
-    color: #8fb4b7;
+    color: #392d47;;
 }
 
 p {
@@ -43,7 +43,7 @@ p {
 }
 
 p.intro-text {
-    color: #C17284;
+    color: #392d47;
 }
 
 @media(min-width:767px) {
