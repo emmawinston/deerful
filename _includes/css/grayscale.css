@@ -9,7 +9,7 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: 'Source Code Pro';
+    font-family: 'Source Code Pro', monospace;
     color: #392d47;
     background-color: {{ site.color.primary-dark }};
 }
@@ -27,7 +27,7 @@ h5,
 h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Source Code Pro', monospace;
     font-weight: 700;
     letter-spacing: 1px;
 }
@@ -67,7 +67,7 @@ a:focus {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(0,0,0,.3);
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Source Code Pro', monospace;
     background-color: {{ site.color.primary-dark }};
 }
 
@@ -305,7 +305,7 @@ a:focus {
 
 .btn {
     text-transform: uppercase;
-    font-family: 'Source Code Pro';
+    font-family: 'Source Code Pro', monospace;
     font-weight: 400;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
