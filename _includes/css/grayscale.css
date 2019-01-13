@@ -75,13 +75,13 @@ a {
 
 .social a:hover,
 .social a:focus {
-    color: #392d47;
+    color: #000000;
 }
 
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #000000;
+    color: #9a6b81;
 }
 
 .light {
