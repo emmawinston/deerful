@@ -26,6 +26,8 @@ social:
     url: https://soundcloud.com/deerful
   - title: youtube
     url: https://youtube.com/deerful
+  - title: mastodon
+    url: https://friend.camp/deerful
 
 
 # Build settings
