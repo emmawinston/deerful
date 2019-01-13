@@ -73,10 +73,15 @@ a {
     color: #392d47;
 }
 
+.social a:hover,
+.social a:focus {
+    color: #392d47;
+}
+
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #11505d;
+    color: #1c1221;
 }
 
 .light {
