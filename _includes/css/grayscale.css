@@ -9,7 +9,7 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: 'Calling Code';
+    font-family: 'Source Code Pro';
     color: #392d47;
     background-color: {{ site.color.primary-dark }};
 }
@@ -305,7 +305,7 @@ a:focus {
 
 .btn {
     text-transform: uppercase;
-    font-family: 'Calling Code';
+    font-family: 'Source Code Pro';
     font-weight: 400;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
