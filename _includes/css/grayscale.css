@@ -32,6 +32,10 @@ h6 {
     letter-spacing: 1px;
 }
 
+h1.brand-heading {
+    color: #7FBD91;
+}
+
 p {
     margin: 0 0 25px;
     font-size: 18px;
