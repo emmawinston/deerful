@@ -342,8 +342,8 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #00588e;
-    color: #00588e;
+    border: 1px solid #392d47;
+    color: #392d47;
     background-color: transparent;
 }
 
@@ -355,7 +355,7 @@ a:focus {
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #00588e;
+    border: 1px solid #392d47;
     outline: 0;
     color: {{ site.color.primary-dark }};
     background-color: #00588e;
