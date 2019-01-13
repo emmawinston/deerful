@@ -311,6 +311,10 @@ a:focus {
     }
 }
 
+iframe {
+    background: rgba(0,0,0,.05);
+}
+
 .btn {
     text-transform: uppercase;
     font-family: 'Source Code Pro', monospace;
