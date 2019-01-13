@@ -311,8 +311,8 @@ a:focus {
     }
 }
 
-iframe {
-    background: rgba(255,255,255,.2);
+.download-section iframe {
+    background: rgba(255,255,255,.5);
 }
 
 .btn {
