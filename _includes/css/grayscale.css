@@ -203,8 +203,8 @@ a:focus {
     }
 }
 
-.embed-container {
-    max-width: 95%;
+iframe {
+    width: 100%;
 }
 
 .btn-circle {
